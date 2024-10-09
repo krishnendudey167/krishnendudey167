@@ -22,13 +22,13 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="Krishnendu Dey">
+      <a href="https://www.instagram.com/krishd_16vii4" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fkrishd_16vii4%2F&subtitle=@krishd_16vii4&size=square" alt="Krishnendu Dey">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="Krishnendu Dey">
+      <a href="https://www.linkedin.com/in/krishnendu-dey-293470259/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkrishnendu-dey-293470259%2F&subtitle=@Krishnendu+Dey&size=square" alt="Krishnendu Dey">
       </a>
     </td>
    <td align="center">
@@ -165,11 +165,11 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h2 align="center">Socials Stats</h2>
 <div align="center">
   <div align="center">
-    <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
+    <a href="https://www.instagram.com/krishd_16vii4/" target="_blank">
       <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
     </a>
     <h3>
-      <a href="https://www.instagram.com/mr_.rafik/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
+      <a href="https://www.instagram.com/krishd_16vii4/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
         Follow Me on Instagram
       </a>
     </h3>
@@ -178,8 +178,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <tr>
       <td align="center" style="border: none;">
         <div>
-          <img src="https://img.shields.io/badge/Instagram-101%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
-          <img src="https://img.shields.io/badge/Instagram-1865%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
+          <img src="https://img.shields.io/badge/Instagram-0%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
+          <img src="https://img.shields.io/badge/Instagram-175%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
         </div>
       </td>
     </tr>
@@ -232,7 +232,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/krishnendudey167h2272?border=0&radius=20"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/krish1674?border=0&radius=20"/>
 </p>
 
 
@@ -628,8 +628,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:krishnendudey167h3262@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=krishnendudey167h3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:krishnendufdey@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=krishnendujdey@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
